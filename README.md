@@ -32,7 +32,7 @@ CREATE TABLE users (
 ); 
 ```
 
-## Paso 2: Clonar el Repositorio
+### Paso 2: Clonar el Repositorio
 
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
